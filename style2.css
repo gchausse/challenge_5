@@ -1,0 +1,16 @@
+header{
+    background-color: yellow;
+    height: 4em;
+}
+main{
+    background-color: red;
+    height: 4em;
+}
+aside{
+    background-color: blue;
+    height: 4em;
+}
+footer{
+    background-color: silver;
+    height: 4em;
+}

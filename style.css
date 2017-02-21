@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+}
+img{
+    width: 100%;
+}
+h3{
+    text-align: center;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+/*article{
+    display: inline-block;
+}*/
