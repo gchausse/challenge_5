@@ -23,6 +23,9 @@ ul{
     list-style: none;
     text-align: center;
 }
+li{
+    margin: 0 1em;
+}
 body{
     background-color: black;
     color: white;
@@ -37,5 +40,8 @@ article{
     justify-content: space-between;
     flex-direction: row;
     width: 100%;
-
+}
+.silver{
+    background-color: #404040;
+    padding: 0;
 }
